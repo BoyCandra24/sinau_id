@@ -1,0 +1,7 @@
+adminer.php
+.backup/
+app/files/capture/*
+system/cookie/*
+*.zip
+*.bak
+*.log
